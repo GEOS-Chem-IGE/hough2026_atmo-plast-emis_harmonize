@@ -1,0 +1,38 @@
+type,year,mon,lon,lat,particle/m2/d,t/km2/yr,study,doi,size_low,size_high,size_units,shape,setting,notes
+1,2018,22,121.5,40.0,10.80730574,0.000410526,Unknown1,,,,,,ocean,Bohai Sea
+1,2018,22,119.0,38.5,145.5298067,0.005083333,Unknown2,,,,,,ocean,Bohai Sea
+1,2018,22,120.0,37.0,73.92197125,0.001550144,Unknown3,,,,,,land,"Eastern Shandong, China"
+1,2018,22,117.4,38.84,243.6687201,0.005109733,Unknown4,,,,,,land,"Tianjin, China"
+1,2018,22,121.43,38.87,201.779603,0.004231318,Unknown5,,,,,,land,"West of Dalian, China"
+1,2015,22,121.0,37.0,399.7262149,0.008382259,Unknown6,,,,,,land,"Eastern Shandong, China"
+1,2016,10,114.0,23.0,244.0,0.00511668,Unknown7,,,,,,land,"East of Dongguan, China"
+1,2018,7,90.5,30.5,28.9,0.000606033,Unknown8,,,,,,land,"Tibet, China"
+1,2018,10,119.21,34.61,39.0,0.00081783,Liu2020,https://doi.org/10.1016/j.jhazmat.2020.123223,16.0,4900.0,um,Fibers,land,size range estimated from figure 3b
+1,2018,10,122.18,29.97,68.0,0.00142596,Liu2020,https://doi.org/10.1016/j.jhazmat.2020.123223,16.0,4900.0,um,Fibers,land,size range estimated from figure 3b
+1,2018,10,118.31,24.61,59.0,0.00123723,Liu2020,https://doi.org/10.1016/j.jhazmat.2020.123223,16.0,4900.0,um,Fibers,land,size range estimated from figure 3b
+1,2018,10,116.87,38.29,36.0,0.00075492,Liu2020,https://doi.org/10.1016/j.jhazmat.2020.123223,16.0,4900.0,um,Fibers,land,size range estimated from figure 3b
+1,2018,22,113.77,23.05,244.0,0.00511668,Cai2017,https://doi.org/10.1007/s11356-017-0116-x,20.0,5000.0,um,Fibers + Films + Foams + Fragments,land,size range estimated from figure 4
+1,2018,22,117.44,38.84,245.0,0.00513765,Tian2020,https://doi.org/10.13671/j.hjkxxb.2020.0067,,,,,land,could not access article
+1,2018,22,121.4,38.87,198.0,0.00415206,Tian2020,https://doi.org/10.13671/j.hjkxxb.2020.0067,,,,,land,could not access article
+1,2018,22,121.54,37.59,74.0,0.00155178,Tian2020,https://doi.org/10.13671/j.hjkxxb.2020.0067,,,,,land,could not access article
+1,2018,22,-113.2,36.1,112.0,0.00229395,Brahney2020,https://doi.org/10.1126/science.aaz5819,4.0,3000.0,um,Fibers + Fragments,land,size range stated in paper
+1,2018,22,-108.0,43.0,68.0,0.001406509,Brahney2020,https://doi.org/10.1126/science.aaz5819,4.0,3000.0,um,Fibers + Fragments,land,size range stated in paper
+1,2018,22,-117.0,46.0,139.0,0.002868994,Brahney2020,https://doi.org/10.1126/science.aaz5819,4.0,3000.0,um,Fibers + Fragments,land,size range stated in paper
+1,2018,22,-120.0,33.0,435.0,0.009169054,Brahney2020,https://doi.org/10.1126/science.aaz5819,4.0,3000.0,um,Fibers + Fragments,land,size range stated in paper
+1,2018,22,-119.0,37.0,54.0,0.001125,Brahney2020,https://doi.org/10.1126/science.aaz5819,4.0,3000.0,um,Fibers + Fragments,land,size range stated in paper
+1,2018,22,-90.5,38.5,120.0,0.002487831,Brahney2020,https://doi.org/10.1126/science.aaz5819,4.0,3000.0,um,Fibers + Fragments,land,size range stated in paper
+1,2018,22,-113.2,36.1,48.0,0.00102489,Brahney2020,https://doi.org/10.1126/science.aaz5819,4.0,3000.0,um,Fibers + Fragments,land,size range stated in paper
+1,2018,22,-86.0,39.0,148.0,0.003215434,Brahney2020,https://doi.org/10.1126/science.aaz5819,4.0,3000.0,um,Fibers + Fragments,land,size range stated in paper
+1,2018,22,-74.0,40.7,140.0,0.002833333,Brahney2020,https://doi.org/10.1126/science.aaz5819,4.0,3000.0,um,Fibers + Fragments,land,size range stated in paper
+1,2018,22,-93.27,42.0,107.0,0.002211538,Brahney2020,https://doi.org/10.1126/science.aaz5819,4.0,3000.0,um,Fibers + Fragments,land,size range stated in paper
+1,2018,22,-111.9,40.8,80.0,0.001655172,Brahney2020,https://doi.org/10.1126/science.aaz5819,4.0,3000.0,um,Fibers + Fragments,land,size range stated in paper
+1,2018,22,0.7,42.6,365.0,0.00765405,Allen2019,https://doi.org/10.1038/s41561-019-0335-5,10.0,3000.0,um,Fibers + Films + Fragments,land,size range estimated from figure 2
+1,2018,22,0.16,53.33,428.0,0.00897516,Klein2019,https://doi.org/10.1016/j.scitotenv.2019.05.405,20.0,5000.0,um,Fibers + Fragments,land,size range estimated from section 3.3
+1,2018,22,0.16,53.33,331.0,0.00694107,Klein2019,https://doi.org/10.1016/j.scitotenv.2019.05.405,20.0,5000.0,um,Fibers + Fragments,land,size range estimated from section 3.3
+1,2018,22,0.16,53.33,215.0,0.00450855,Klein2019,https://doi.org/10.1016/j.scitotenv.2019.05.405,20.0,5000.0,um,Fibers + Fragments,land,size range estimated from section 3.3
+1,2018,22,-6.25,53.33,80.0,0.0016776,Roblin2020,https://doi.org/10.1021/acs.est.0c04000,50.0,4000.0,um,Fibers,land,size range estimated from figure S3 and statement that visual detection was limited to fibers with length > 50 um
+1,2018,22,2.4,48.9,110.0,0.0023067,Dris2016,https://doi.org/10.1016/j.marpolbul.2016.01.006,50.0,3200.0,um,Fibers,land,size range estimated from figure 3
+1,2018,22,-1.14,52.95,2.9,6.0813e-05,Stanton2019,https://doi.org/10.1016/j.scitotenv.2019.02.278,,,,Fibers,land,size range not reported
+1,2018,1,-0.11,51.0,712.0,0.01493064,Wright2020,https://doi.org/10.1016/j.envint.2019.105411,25.0,2900.0,um,Fibers + Films + Foams + Fragments,land,size range estimated from figure 2
+1,2018,1,-0.11,51.0,59.0,0.00123723,Wright2020,https://doi.org/10.1016/j.envint.2019.105411,25.0,2900.0,um,Fibers + Films + Foams + Fragments,land,size range estimated from figure 2
+1,2021,22,113.26,23.13,65.937,0.001382699,Yuan2023,https://doi.org/10.1016/j.scitotenv.2023.161839,29.0,185.0,um,Fibers,land,size range from section 3.2

@@ -1,0 +1,28 @@
+#===============================================================================
+# Conda environment for size-harmonizing atmospheric microplastic observations
+# Note: use environment.lock to **exactly** reproduce the environment
+#===============================================================================
+
+name: hough2026_atmo-plast-emis_harmonize
+channels:
+  - conda-forge
+dependencies:
+  - cartopy=0.25.0
+  - cf_xarray=0.10.9
+  - dask=2025.3.0
+  - ipykernel=6.29.5
+  - matplotlib=3.10.1
+  - netcdf4=1.7.2
+  - numpy=2.2.4
+  - openpyxl=3.1.5
+  - pandas=2.3.3
+  - pint-xarray=0.6.0
+  - python=3.12
+  - seaborn=0.13.2
+  - scikit-learn=1.7.2
+  - scipy=1.17.0
+  - xarray=2025.3.1
+
+  # Development
+  - conda-lock=4.0.0
+  - nbdime=4.0.2

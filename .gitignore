@@ -1,0 +1,7 @@
+# Raw simulation outputs
+simulations/*
+!simulations/README.md
+
+# Postprocessed simulation outputs and scaling factors
+results/*.nc
+results/*.pkl
