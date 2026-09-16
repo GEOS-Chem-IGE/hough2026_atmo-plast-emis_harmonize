@@ -10,6 +10,7 @@ from utils.data import (
     PROCESSED_DIR,
     RESULTS_DIR,
     SIMS_DIR,
+    adjust_size_distribution,
     apply_scales,
     combine_land_sources,
     load_observations,

@@ -28,6 +28,67 @@ RESULTS_DIR = "results"  # results
 SIMS_DIR = "simulations"  # simulation outputs
 
 
+def adjust_size_distribution(
+    sim: xr.Dataset, alpha: float, size_max: float = 100
+) -> xr.DataArray:
+    """Adjust processed simulation outputs to match an emissions size distribution
+
+    Args:
+        sim: Processed simulation outputs
+        alpha: Power law alpha parameter (slope) of target emissions size distribution
+        size_max: Maximum particle size, in micrometres (default: 100)
+
+    Returns:
+        xarray.Dataset scaled to match the target emissions size distribution
+    """
+
+    # Compute current emissions size distribution
+    emis = sim["emission"].sum(dim=["lat", "lon"])
+    emis_psd = emis / emis.sum(dim="size")
+
+    # Compute target size distribution
+    new_edges = powerlaw_compute_bin_edges(
+        xmax=size_max, vol_mean_sizes=PLASTIC_SIZES, alpha=alpha, figs=3
+    )
+    new_emis = powerlaw_compute_mass(
+        xmin=new_edges[:-1],
+        xmax=new_edges[1:],
+        alpha=alpha,
+        c=100,
+        shape_factor=PLASTIC_SHAPE_FACTORS["fragments"],
+        density=PLASTIC_DENSITY,
+    )
+    new_emis = new_emis.magnitude
+    new_psd = new_emis / new_emis.sum()
+
+    # Compute scales to transform current size distribution to target
+    scales = new_psd / emis_psd
+
+    # Adjust the simulation outputs
+    vars_to_scale = [
+        "emission",
+        "concentration",
+        "dry_deposition",
+        "wet_loss",
+        "total_deposition",
+    ]
+    vars_to_scale = [x for x in vars_to_scale if x in sim.data_vars]
+    with xr.set_options(keep_attrs=True):
+        scaled = sim[vars_to_scale] * scales.drop_attrs()
+    for k, v in sim.data_vars.items():
+        if k not in scaled:
+            scaled[k] = v
+    scaled.attrs = sim.attrs
+
+    # Document changes
+    scaled.attrs["notes"] = (
+        f"Adjusted to match emissions size distribution alpha = {alpha} with bin edges"
+        + f" {new_edges}"
+    )
+
+    return scaled
+
+
 def apply_scales(
     dataset: xr.Dataset, scales: xr.DataArray, label: str | None = None
 ) -> xr.Dataset:
