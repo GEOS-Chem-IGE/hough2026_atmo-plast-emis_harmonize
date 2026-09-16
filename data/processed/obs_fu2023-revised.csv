@@ -1,0 +1,97 @@
+author,year,doi,measure,lat,lon,number,number_units,mass,mass_units,size_min,size_max,size_units,shape,area,notes
+Abbasi,2019.0,https://doi.org/10.1016/j.envpol.2018.10.039,concentration,27.47,52.61,0.657,particle/m3,0.037449,ug/m3,10.0,500.0,µm,Fibers,land,size range estimated from section 3.3
+Allen,2020.0,https://doi.org/10.1371/journal.pone.0232746,concentration,44.2,-1.3,2.9,particle/m3,0.1653,ug/m3,5.0,140.0,µm,Not reported,land,size range from results section
+Allen,2021.0,https://doi.org/10.1038/s41467-021-27454-7,concentration,42.94,0.14,0.233,particle/m3,0.013281,ug/m3,3.5,53.0,µm,Fibers + Fragments,land,size range from results section
+Caracci,2023.0,https://doi.org/10.1016/j.jhazmat.2023.131036,concentration,29.96,-22.935,0.1291,particle/m3,0.01291,ug/m3,1.0,50.0,µm,Fibers + Fragments,ocean,size range estimated from methods (sampling with PM10 inlet head may capture fibers longer than 10 um); counts estimated from study-reported mass assuming 100 ng/particle
+Caracci,2023.0,https://doi.org/10.1016/j.jhazmat.2023.131036,concentration,26.52,-24.71,0.5174,particle/m3,0.05174,ug/m3,1.0,50.0,µm,Fibers + Fragments,ocean,size range estimated from methods (sampling with PM10 inlet head may capture fibers longer than 10 um); counts estimated from study-reported mass assuming 100 ng/particle
+Caracci,2023.0,https://doi.org/10.1016/j.jhazmat.2023.131036,concentration,11.79,-29.305,0.0193,particle/m3,0.00193,ug/m3,1.0,50.0,µm,Fibers + Fragments,ocean,size range estimated from methods (sampling with PM10 inlet head may capture fibers longer than 10 um); counts estimated from study-reported mass assuming 100 ng/particle
+Caracci,2023.0,https://doi.org/10.1016/j.jhazmat.2023.131036,concentration,8.17,-29.61,0.0149,particle/m3,0.00149,ug/m3,1.0,50.0,µm,Fibers + Fragments,ocean,size range estimated from methods (sampling with PM10 inlet head may capture fibers longer than 10 um); counts estimated from study-reported mass assuming 100 ng/particle
+Caracci,2023.0,https://doi.org/10.1016/j.jhazmat.2023.131036,concentration,4.51,-29.97,0.0057,particle/m3,0.00057,ug/m3,1.0,50.0,µm,Fibers + Fragments,ocean,size range estimated from methods (sampling with PM10 inlet head may capture fibers longer than 10 um); counts estimated from study-reported mass assuming 100 ng/particle
+Caracci,2023.0,https://doi.org/10.1016/j.jhazmat.2023.131036,concentration,-27.435,-40.365,0.1316,particle/m3,0.01316,ug/m3,1.0,50.0,µm,Fibers + Fragments,ocean,size range estimated from methods (sampling with PM10 inlet head may capture fibers longer than 10 um); counts estimated from study-reported mass assuming 100 ng/particle
+Caracci,2023.0,https://doi.org/10.1016/j.jhazmat.2023.131036,concentration,-30.68,-42.715,0.0001,particle/m3,1e-05,ug/m3,1.0,50.0,µm,Fibers + Fragments,ocean,size range estimated from methods (sampling with PM10 inlet head may capture fibers longer than 10 um); counts estimated from study-reported mass assuming 100 ng/particle
+Caracci,2023.0,https://doi.org/10.1016/j.jhazmat.2023.131036,concentration,-39.92,-50.63,0.0321,particle/m3,0.00321,ug/m3,1.0,50.0,µm,Fibers + Fragments,ocean,size range estimated from methods (sampling with PM10 inlet head may capture fibers longer than 10 um); counts estimated from study-reported mass assuming 100 ng/particle
+Caracci,2023.0,https://doi.org/10.1016/j.jhazmat.2023.131036,concentration,-43.44,-54.31,0.0103,particle/m3,0.00103,ug/m3,1.0,50.0,µm,Fibers + Fragments,ocean,size range estimated from methods (sampling with PM10 inlet head may capture fibers longer than 10 um); counts estimated from study-reported mass assuming 100 ng/particle
+Caracci,2023.0,https://doi.org/10.1016/j.jhazmat.2023.131036,concentration,-46.955,-58.82,0.0785,particle/m3,0.00785,ug/m3,1.0,50.0,µm,Fibers + Fragments,ocean,size range estimated from methods (sampling with PM10 inlet head may capture fibers longer than 10 um); counts estimated from study-reported mass assuming 100 ng/particle
+Ding,2021.0,https://doi.org/10.1016/j.atmosenv.2021.118389,concentration,19.99,113.1,0.035,particle/m3,0.0035,ug/m3,50.0,2210.0,µm,Fibers + Films + Foams + Fragments,ocean,size range from section 3.2
+Dris,2017.0,https://doi.org/10.1016/j.envpol.2016.12.013,concentration,48.8,2.5,0.9,particle/m3,0.0513,ug/m3,50.0,1650.0,µm,Fibers,land,size range from figure 2
+Gaston,2020.0,https://doi.org/10.1177/0003702820920652,concentration,34.17,-118.96,6.2,particle/m3,0.3534,ug/m3,25.0,2061.0,µm,Fibers + Fragments,land,size range from table 2; count is particles identified via Nile red fluorescence
+Liu,2019.0,https://doi.org/10.1016/j.scitotenv.2019.04.110,concentration,31.1,121.5,1.42,particle/m3,0.08094,ug/m3,23.0,9555.0,µm,Fibers + Fragments,land,size range from section 3.2
+Liu,2019.0,https://doi.org/10.1021/acs.est.9b03427,concentration,28.0,123.0,0.802941176,particle/m3,0.0802941176,ug/m3,16.0,2087.0,µm,Fibers + Fragments,ocean,size range from results section
+Liu,2019.0,https://doi.org/10.1021/acs.est.9b03427,concentration,20.0,130.0,0.014191419,particle/m3,0.0014191419,ug/m3,16.0,2087.0,µm,Fibers + Fragments,ocean,size range from results section
+Liu,2019.0,https://doi.org/10.1021/acs.est.9b03427,concentration,12.0,142.0,0.023666667,particle/m3,0.0023666667,ug/m3,16.0,2087.0,µm,Fibers + Fragments,ocean,size range from results section
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,concentration,40.85,121.81,0.048,particle/m3,0.002736,ug/m3,16.0,2986.0,µm,Fibers,land,size range from section 3.3
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,concentration,38.84,117.44,0.056,particle/m3,0.003192,ug/m3,16.0,2986.0,µm,Fibers,land,size range from section 3.3
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,concentration,38.22,118.95,0.031,particle/m3,0.001767,ug/m3,16.0,2986.0,µm,Fibers,land,size range from section 3.3
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,concentration,35.87,120.41,0.042,particle/m3,0.002394,ug/m3,16.0,2986.0,µm,Fibers,land,size range from section 3.3
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,concentration,34.77,119.35,0.078,particle/m3,0.004446,ug/m3,16.0,2986.0,µm,Fibers,land,size range from section 3.3
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,concentration,31.85,120.88,0.32,particle/m3,0.01824,ug/m3,16.0,2986.0,µm,Fibers,land,size range from section 3.3
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,concentration,30.7,121.78,0.43,particle/m3,0.02451,ug/m3,16.0,2986.0,µm,Fibers,land,size range from section 3.3
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,concentration,29.88,122.34,0.042,particle/m3,0.002394,ug/m3,16.0,2986.0,µm,Fibers,land,size range from section 3.3
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,concentration,28.66,122.03,0.022,particle/m3,0.001254,ug/m3,16.0,2986.0,µm,Fibers,land,size range from section 3.3
+Trainic,2020.0,https://doi.org/10.1038/s43247-020-00061-y,concentration,46.05,-8.0,0.07,particle/m3,0.007,ug/m3,17.0,172.0,µm,Not reported,ocean,size range from table 1
+Trainic,2020.0,https://doi.org/10.1038/s43247-020-00061-y,concentration,43.85,-12.45,0.08,particle/m3,0.008,ug/m3,17.0,172.0,µm,Not reported,ocean,size range from table 1
+Trainic,2020.0,https://doi.org/10.1038/s43247-020-00061-y,concentration,39.35,-19.75,0.07,particle/m3,0.007,ug/m3,17.0,172.0,µm,Not reported,ocean,size range from table 1
+Trainic,2020.0,https://doi.org/10.1038/s43247-020-00061-y,concentration,38.4,-21.8,0.04,particle/m3,0.004,ug/m3,17.0,172.0,µm,Not reported,ocean,size range from table 1
+Trainic,2020.0,https://doi.org/10.1038/s43247-020-00061-y,concentration,36.4,-30.35,0.06,particle/m3,0.006,ug/m3,17.0,172.0,µm,Not reported,ocean,size range from table 1
+Trainic,2020.0,https://doi.org/10.1038/s43247-020-00061-y,concentration,32.2,-38.45,0.07,particle/m3,0.007,ug/m3,17.0,172.0,µm,Not reported,ocean,size range from table 1
+Trainic,2020.0,https://doi.org/10.1038/s43247-020-00061-y,concentration,26.5,-50.4,0.03,particle/m3,0.003,ug/m3,17.0,172.0,µm,Not reported,ocean,size range from table 1
+Trainic,2020.0,https://doi.org/10.1038/s43247-020-00061-y,concentration,25.85,-67.65,0.07,particle/m3,0.007,ug/m3,17.0,172.0,µm,Not reported,ocean,size range from table 1
+Trainic,2020.0,https://doi.org/10.1038/s43247-020-00061-y,concentration,25.95,-70.9,0.02,particle/m3,0.002,ug/m3,17.0,172.0,µm,Not reported,ocean,size range from table 1
+Unknown-c1,,,concentration,30.0,50.6,6.2,particle/m3,0.3534,ug/m3,,,µm,,land,"North of Bushehr, Iran"
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,22.54,113.59,0.03,particle/m3,0.003,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,22.24,113.67,0.077,particle/m3,0.0077,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,22.02,114.48,0.019,particle/m3,0.0019,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,17.31,113.19,0.0061,particle/m3,0.00061,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,14.33,112.48,0.023,particle/m3,0.0023,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,11.22,111.94,0.0034,particle/m3,0.00034,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,5.54,109.83,0.007,particle/m3,0.0007,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,1.85,108.35,0.008,particle/m3,0.0008,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,-2.88,107.14,0.0018,particle/m3,0.00018,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,-6.55,104.38,0.0064,particle/m3,0.00064,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,-8.37,98.72,0.0008,particle/m3,8e-05,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,-9.34,93.0,0.0002,particle/m3,2e-05,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,-8.36,89.68,0.0005,particle/m3,5e-05,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,-4.19,88.21,0.008,particle/m3,0.0008,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,0.19,87.46,0.018,particle/m3,0.0018,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,2.73,87.28,0.012,particle/m3,0.0012,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,6.09,86.82,0.0001,particle/m3,1e-05,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,8.93,86.87,0.0016,particle/m3,0.00016,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,11.82,86.95,0.0015,particle/m3,0.00015,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,13.88,87.06,0.0014,particle/m3,0.00014,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2020.0,https://doi.org/10.1016/j.jhazmat.2019.121846,concentration,4.16,79.66,0.0014,particle/m3,0.00014,ug/m3,59.0,2252.0,µm,Fibers + Fragments,ocean,size range from section 3.2
+Wang,2021.0,https://doi.org/10.1016/j.jhazmat.2021.125477,concentration,20.56,113.11,0.0039,particle/m3,0.00039,ug/m3,19.0,949.0,µm,Fibers + Films + Fragments,ocean,size range from section 3.2; count is mean of all samples
+Yuan,2023.0,https://doi.org/10.1016/j.scitotenv.2023.161839,concentration,23.13,113.26,0.166,particle/m3,0.009462,ug/m3,13.0,334.0,µm,Fibers,land,size range from section 3.2
+Allen,2019.0,https://doi.org/10.1038/s41561-019-0335-5,deposition,42.804,1.419,365.0,particle/m2/d,0.007593825,t/km2/yr,10.0,3000.0,µm,Fibers + Films + Fragments,land,size range estimated from figure 2
+Brahney,2020.0,https://doi.org/10.1126/science.aaz5819,deposition,36.0586,-112.184,112.0,particle/m2/d,0.00233016,t/km2/yr,4.0,3000.0,µm,Fibers + Fragments,land,size range stated in paper
+Brahney,2020.0,https://doi.org/10.1126/science.aaz5819,deposition,42.929,-109.7875,68.0,particle/m2/d,0.00141474,t/km2/yr,4.0,3000.0,µm,Fibers + Fragments,land,size range stated in paper
+Brahney,2020.0,https://doi.org/10.1126/science.aaz5819,deposition,43.4605,-113.5551,139.0,particle/m2/d,0.002891895,t/km2/yr,4.0,3000.0,µm,Fibers + Fragments,land,size range stated in paper
+Brahney,2020.0,https://doi.org/10.1126/science.aaz5819,deposition,40.2878,-105.6628,435.0,particle/m2/d,0.009050175,t/km2/yr,4.0,3000.0,µm,Fibers + Fragments,land,size range stated in paper
+Brahney,2020.0,https://doi.org/10.1126/science.aaz5819,deposition,34.0695,-116.3889,54.0,particle/m2/d,0.00112347,t/km2/yr,4.0,3000.0,µm,Fibers + Fragments,land,size range stated in paper
+Brahney,2020.0,https://doi.org/10.1126/science.aaz5819,deposition,40.7543,-109.4671,120.0,particle/m2/d,0.0024966,t/km2/yr,4.0,3000.0,µm,Fibers + Fragments,land,size range stated in paper
+Brahney,2020.0,https://doi.org/10.1126/science.aaz5819,deposition,38.4584,-109.821,48.0,particle/m2/d,0.00099864,t/km2/yr,4.0,3000.0,µm,Fibers + Fragments,land,size range stated in paper
+Brahney,2020.0,https://doi.org/10.1126/science.aaz5819,deposition,40.0547,-105.5891,148.0,particle/m2/d,0.00307914,t/km2/yr,4.0,3000.0,µm,Fibers + Fragments,land,size range stated in paper
+Brahney,2020.0,https://doi.org/10.1126/science.aaz5819,deposition,38.9561,-106.986,140.0,particle/m2/d,0.0029127,t/km2/yr,4.0,3000.0,µm,Fibers + Fragments,land,size range stated in paper
+Brahney,2020.0,https://doi.org/10.1126/science.aaz5819,deposition,39.0054,-114.217,107.0,particle/m2/d,0.002226135,t/km2/yr,4.0,3000.0,µm,Fibers + Fragments,land,size range stated in paper
+Brahney,2020.0,https://doi.org/10.1126/science.aaz5819,deposition,37.6186,-112.1728,80.0,particle/m2/d,0.0016644,t/km2/yr,4.0,3000.0,µm,Fibers + Fragments,land,size range stated in paper
+Cai,2017.0,https://doi.org/10.1007/s11356-017-0116-x,deposition,23.05,113.77,36.0,particle/m2/d,0.00074898,t/km2/yr,20.0,5000.0,µm,Fibers + Films + Foams + Fragments,land,size range estimated from figure 4; count excludes organic particles e.g. cellulose
+Dris,2016.0,https://doi.org/10.1016/j.marpolbul.2016.01.006,deposition,48.805,2.443,110.0,particle/m2/d,0.00228855,t/km2/yr,50.0,3200.0,µm,Fibers,land,size range estimated from figure 3
+Klein,2019.0,https://doi.org/10.1016/j.scitotenv.2019.05.405,deposition,53.518,9.923,305.1,particle/m2/d,0.0063476055,t/km2/yr,20.0,5000.0,µm,Fibers + Fragments,land,size range estimated from section 3.3; count is mean of all samples
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,deposition,34.61,119.21,39.0,particle/m2/d,0.000811395,t/km2/yr,16.0,4900.0,µm,Fibers,land,size range estimated from figure 3b
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,deposition,29.97,122.18,68.0,particle/m2/d,0.00141474,t/km2/yr,16.0,4900.0,µm,Fibers,land,size range estimated from figure 3b
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,deposition,24.61,118.31,59.0,particle/m2/d,0.001227495,t/km2/yr,16.0,4900.0,µm,Fibers,land,size range estimated from figure 3b
+Liu,2020.0,https://doi.org/10.1016/j.jhazmat.2020.123223,deposition,38.29,116.87,36.0,particle/m2/d,0.00074898,t/km2/yr,16.0,4900.0,µm,Fibers,land,size range estimated from figure 3b
+Roblin,2020.0,https://doi.org/10.1021/acs.est.0c04000,deposition,55.37175,-7.33945,15.0,particle/m2/d,0.000312075,t/km2/yr,50.0,4000.0,µm,Fibers,land,size range estimated from figure S3 and statement that visual detection was limited to fibers with length > 50 um; count from bulk deposition sample only; count excludes organic fibers e.g. cellulose
+Stanton,2019.0,https://doi.org/10.1016/j.scitotenv.2019.02.278,deposition,52.95,-1.14,2.9,particle/m2/d,6.03345e-05,t/km2/yr,,,µm,Fibers,land,size range not reported
+Tian,2020.0,https://doi.org/10.13671/j.hjkxxb.2020.0067,deposition,38.84,117.44,245.0,particle/m2/d,0.005097225,t/km2/yr,,,µm,,land,could not access article
+Tian,2020.0,https://doi.org/10.13671/j.hjkxxb.2020.0067,deposition,38.87,121.4,198.0,particle/m2/d,0.00411939,t/km2/yr,,,µm,,land,could not access article
+Tian,2020.0,https://doi.org/10.13671/j.hjkxxb.2020.0067,deposition,37.59,121.54,74.0,particle/m2/d,0.00153957,t/km2/yr,,,µm,,land,could not access article
+Unknown-d1,,,deposition,40.0,121.5,11.2,particle/m2/d,0.0004088,t/km2/yr,,,µm,,ocean,Bohai Sea
+Unknown-d2,,,deposition,38.5,119.0,139.3,particle/m2/d,0.00508445,t/km2/yr,,,µm,,ocean,Bohai Sea
+Unknown-d3,,,deposition,37.0,120.0,74.5,particle/m2/d,0.0015499725,t/km2/yr,,,µm,,land,"Eastern Shandong, China"
+Unknown-d4,,,deposition,38.84,117.4,245.6,particle/m2/d,0.005109708,t/km2/yr,,,µm,,land,"Tianjin, China"
+Unknown-d5,,,deposition,38.87,121.43,203.4,particle/m2/d,0.004231737,t/km2/yr,,,µm,,land,"West of Dalian, China"
+Unknown-d6,,,deposition,37.0,121.0,402.9,particle/m2/d,0.0083823345,t/km2/yr,,,µm,,land,"Eastern Shandong, China"
+Unknown-d7,,,deposition,23.0,114.0,245.9,particle/m2/d,0.0051159495,t/km2/yr,,,µm,,land,"East of Dongguan, China"
+Unknown-d8,,,deposition,30.5,90.5,29.1,particle/m2/d,0.0006054255,t/km2/yr,,,µm,,land,"Tibet, China"
+Wright,2020.0,https://doi.org/10.1016/j.envint.2019.105411,deposition,51.5111,-0.1171,771.0,particle/m2/d,0.016040655,t/km2/yr,25.0,2900.0,µm,Fibers + Films + Foams + Fragments,land,size range estimated from figure 2
+Yuan,2023.0,https://doi.org/10.1016/j.scitotenv.2023.161839,deposition,23.13,113.26,65.937,particle/m2/d,0.001371819285,t/km2/yr,29.0,185.0,µm,Fibers,land,size range from section 3.2

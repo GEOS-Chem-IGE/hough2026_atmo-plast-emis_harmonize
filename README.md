@@ -32,7 +32,7 @@ These notebooks size-harmonize observed atmospheric microplastic concentration a
 > [!TIP]
 > If you get a `No such file or directory` error when running the notebooks, try updating your configuration to set the root directory for Jupyter Notebooks to the root of this repository. Alternatively, you can create symlinks in the [notebooks](notebooks/) directory to the [data](data/), [results](results/), [simulations](simulations/), and [utils](utils/) directories.
 
-1. Run [prep-fu2023-obs.ipynb](notebooks/prep-fu2023-obs.ipynb) to postprocess Fu et al. (2023)'s collected observations of atmospheric microplastic concentration and deposition, adding source DOI and observed particle size range
+1. Run [prep-obs-fu2023.ipynb](notebooks/prep-obs-fu2023.ipynb) to prepare Fu et al. (2023)'s collected observations of atmospheric microplastic concentration and deposition, adding source DOI and observed particle size range
 
 2. Run [prep-mpsizebase.ipynb](notebooks/prep-mpsizebase.ipynb) to extract power law parameters for atmospheric microplastic number particle size distributions from the MPsizeBase database (Sonke et al., 2025)
 
