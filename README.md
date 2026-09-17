@@ -8,7 +8,7 @@ This repository contains code for the paper "Reduced global atmospheric micropla
 1. Size-harmonizes observations of atmospheric microplastic concentration and deposition
 2. Constrains modeled atmospheric microplastics with the size-harmonized observations
 
-The size-harmonzied observations are in the [results/](results/) directory (`obs_size-harmonized_*.csv`)
+The size-harmonzied observations are in the [results/](results/) directory (`obs_fu2023-size-harmonized.csv`)
 
 The constrained simulation outputs are available at https://doi.org/10.5281/zenodo.20922804
 
@@ -27,7 +27,7 @@ micromamba activate hough2026_atmo-plast-emis_harmonize
 
 ### Run the size-harmonization notebooks
 
-These notebooks size-harmonize observed atmospheric microplastic concentration and deposition to the 0.1-100 µm size range used in the simulations. The size-harmonized data are already in [results](results/) (`obs_size-harmonized_*.csv`); running these notebooks will overwrite them.
+These notebooks size-harmonize observed atmospheric microplastic concentration and deposition to the 0.1-100 µm size range used in the simulations. The size-harmonized data are already in [results](results/) (`obs_fu2023-size-harmonized.csv`); running these notebooks will overwrite them.
 
 > [!TIP]
 > If you get a `No such file or directory` error when running the notebooks, try updating your configuration to set the root directory for Jupyter Notebooks to the root of this repository. Alternatively, you can create symlinks in the [notebooks](notebooks/) directory to the [data](data/), [results](results/), [simulations](simulations/), and [utils](utils/) directories.
@@ -36,7 +36,7 @@ These notebooks size-harmonize observed atmospheric microplastic concentration a
 
 2. Run [prep-mpsizebase.ipynb](notebooks/prep-mpsizebase.ipynb) to extract power law parameters for atmospheric microplastic number particle size distributions from the MPsizeBase database (Sonke et al., 2025)
 
-3. Run [size-harmonize-obs.ipynb](notebooks/size-harmonize-obs.ipynb) to size-harmonize the postprocessed observations to the 0.1-100 µm size range used in the simulations using the median power law slope (parameter $\alpha$) of atmospheric microplastics from MPsizeBase
+3. Run [size-harmonize-obs.ipynb](notebooks/size-harmonize-obs.ipynb) to size-harmonize the observations to the 0.1-100 µm size range used in the simulations using the median power law slope (parameter $\alpha$) of atmospheric microplastics from MPsizeBase
 
 ### Get the raw simulation outputs
 
