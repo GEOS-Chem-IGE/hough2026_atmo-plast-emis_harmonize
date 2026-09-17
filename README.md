@@ -34,9 +34,11 @@ These notebooks size-harmonize observed atmospheric microplastic concentration a
 
 1. Run [prep-obs-fu2023.ipynb](notebooks/prep-obs-fu2023.ipynb) to prepare Fu et al. (2023)'s collected observations of atmospheric microplastic concentration and deposition, adding source DOI and observed particle size range
 
-2. Run [prep-mpsizebase.ipynb](notebooks/prep-mpsizebase.ipynb) to extract power law parameters for atmospheric microplastic number particle size distributions from the MPsizeBase database (Sonke et al., 2025)
+2. Run [prep-obs-evangelou2026.ipynb](notebooks/prep-obs-evangelou2026.ipynb) to prepare Evangelou et al. (2026)'s collected observations of atmospheric microplastic concentration and deposition. These data are used to evaluate how sensitive our results are to the observations used to constrain simualted emissions.
 
-3. Run [size-harmonize-obs.ipynb](notebooks/size-harmonize-obs.ipynb) to size-harmonize the observations to the 0.1-100 µm size range used in the simulations using the median power law slope (parameter $\alpha$) of atmospheric microplastics from MPsizeBase
+3. Run [prep-mpsizebase.ipynb](notebooks/prep-mpsizebase.ipynb) to extract power law parameters for atmospheric microplastic number particle size distributions from the MPsizeBase database (Sonke et al., 2025)
+
+4. Run [size-harmonize-obs.ipynb](notebooks/size-harmonize-obs.ipynb) to size-harmonize the observations to the 0.1-100 µm size range used in the simulations using the median power law slope (parameter $\alpha$) of atmospheric microplastics from MPsizeBase
 
 ### Get the raw simulation outputs
 
