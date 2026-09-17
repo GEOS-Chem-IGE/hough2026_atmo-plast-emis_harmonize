@@ -10,7 +10,7 @@ This repository contains code for the paper "Reduced global atmospheric micropla
 
 The size-harmonzied observations are in the [results/](results/) directory (`obs_fu2023-size-harmonized.csv`)
 
-The constrained simulation outputs are available at https://doi.org/10.5281/zenodo.20922804
+The constrained simulation outputs are available at https://doi.org/10.5281/zenodo.22865719
 
 
 To reproduce
@@ -52,17 +52,15 @@ simulations/
 │   ├── 3-agri/
 │   ├── 4-resi/
 │   ├── 5-road/
-│   └── README.md
 └── main/
     ├── 1-ocen/
     ├── 2-mmpw/
     ├── 3-agri/
     ├── 4-resi/
     ├── 5-road/
-    └── README.md
 ```
 
-Alternatively, you can recreate the raw outputs by running the simulation code at https://doi.org/10.5281/zenodo.21068954.
+Alternatively, you can recreate the raw outputs by running the simulation code at https://doi.org/10.5281/zenodo.22864952.
 
 ### Run the optimization notebooks
 
