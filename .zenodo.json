@@ -1,0 +1,71 @@
+{
+  "creators": [
+    {
+      "name": "Hough, Ian",
+      "orcid": "0000-0001-7948-6995",
+      "affiliation": "Université Grenoble Alpes",
+      "type": "ContactPerson"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Angot, Hélène",
+      "orcid": "0000-0003-4673-8249",
+      "affiliation": "CNRS",
+      "type": "Supervisor"
+    },
+    {
+      "name": "Jahangir, Erfan",
+      "affiliation": "Université Grenoble Alpes",
+      "type": "Researcher"
+    },
+    {
+      "name": "Thomas, Jennie",
+      "orcid": "0000-0003-2243-8137",
+      "affiliation": "Université Grenoble Alpes",
+      "type": "Supervisor"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/GEOS-Chem-IGE/hough2026_atmo-plast-emis_harmonize/tree/v1.0.1",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.22865719",
+      "relation": "isSourceOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.20847720",
+      "relation": "requires",
+      "resource_type": "dataset"
+    },
+  ],
+  "subjects": [
+    {
+      "term": "Atmospheric model",
+      "identifier": "https://www.eionet.europa.eu/gemet/concept/629"
+    },
+    {
+      "term": "Atmospheric pollution",
+      "identifier": "https://www.eionet.europa.eu/gemet/concept/636"
+    },
+    {
+      "term": "Microplastics",
+      "identifier": "https://id.nlm.nih.gov/mesh/D000080545.html"
+    }
+  ],
+  "grants": [
+    {
+      "id": "10.13039/501100001665::ANR-20-CE34-0014"
+    },
+    {
+      "id": "10.13039/501100001665::ANR-23-CE34-0012"
+    },
+    {
+      "id": "10.13039/501100000780::101137680"
+    }
+  ]
+}
