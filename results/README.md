@@ -11,7 +11,7 @@ Contents
 
 `obs_fu2023-size-harmonzied.csv`: atmospheric microplastic concentration and deposition observations, size-harmonized to the 0.1-100 µm particle size range. All observations were assumed to have a power law particle number size distribution with $\alpha$ = -2.7 (i.e. the log-log slope of the particle number size distribution is -2.7). Mass was computed assuming ellipsoidal particles with length = size, width = 0.68 length, height = 0.4 width, and density 1 g/cm3. See [size-harmonize-obs.ipynb](/notebooks/size-harmonize-obs.ipynb) for details.
 
-`scales_*.nc`: optimized scaling factors that adjust the postprocessed raw outputs of the *main* and *alternate* simulations to match observations. The *main* simulation is constrained by size-harmonized observations while the *alternate* simulation is constrained by unharmonized observations. See [constrain-simulations.ipynb](/notebooks/constrain-simulations.ipynb) for details.
+`scales_{main|alt}.nc`: optimized scaling factors that adjust the postprocessed raw outputs of the *main* and *alternate* simulations to match observations. The *main* simulation is constrained by size-harmonized observations while the *alternate* simulation is constrained by unharmonized observations. See [constrain-simulations.ipynb](/notebooks/constrain-simulations.ipynb) for details.
 
 `sim_{main|alt}.nc`: postprocessed raw outputs of the *main* and *alternate* simulations (time-averaged over 2018-2020). See [process-sim-outputs.ipynb](/notebooks/process-sim-outputs.ipynb) for details.
 
