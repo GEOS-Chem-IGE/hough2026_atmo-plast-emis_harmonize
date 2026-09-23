@@ -1,7 +1,9 @@
 Simulated atmospheric microplastics
 ===================================
 
-This directory exists to hold the raw outputs of the atmospheric microplastic cycling simulations. You can download the raw outputs from https://doi.org/10.5281/zenodo.20847720 or recreate them by running the simulation code at https://doi.org/10.5281/zenodo.22864952.
+This directory exists to hold the raw outputs of the atmospheric microplastic cycling simulations.
+
+You can download the archived outputs from DOI:[10.5281/zenodo.22925451](https://doi.org/10.5281/zenodo.22925451) or recreate them by running the code at DOI:[10.5281/zenodo.21066849](https://doi.org/10.5281/zenodo.21066849).
 
 
 Contents

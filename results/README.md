@@ -1,7 +1,9 @@
-Size-harmonized atmospheric microplastics
-=========================================
+Size-harmonized atmospheric microplastics for "Reduced global atmospheric microplastic emissions from size-harmonized observations" (Hough et al., 2026)
+========================================================================================================================================================
 
-This directory contains size-harmonized observations and constrained simulation outputs from "Reduced global atmospheric microplastic emissions from size-harmonized observations" (Hough et al., 2026).
+This directory contains the size-harmonized observations and constrained simulation outputs described in "Reduced global atmospheric microplastic emissions from size-harmonized observations" (Hough et al., 2026).
+
+The data are archived at DOI:[10.5281/zenodo.22865719](https://doi.org/10.5281/zenodo.22865719)
 
 
 Contents
