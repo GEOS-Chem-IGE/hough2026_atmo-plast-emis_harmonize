@@ -29,8 +29,6 @@ Postprocessed data derived from the [original](original/) files.
 
 `obs_fu2023.csv`: observational dataset of Fu et al. (2023), annotated with study DOI and observed particle size range. See [prep-obs-fu2023.ipynb](/notebooks/prep-obs-fu2023.ipynb) for details.
 
-`obs_fu2023-revised.csv`: observational dataset of Fu et al. (2023), revised to ensure lat/lon and microplastic particle counts (`particle/m3` or `particle/m2/d`) correspond to the study-reported values. Microplastic mass (`ug/m3` or `t/km2/yr`) was recomputed from the updated particle counts assuming a fixed microplastic particle mass of 57 ng/particle over land and 100 ng/particle over oceans. See [prep-obs-fu2023.ipynb](/notebooks/prep-obs-fu2023.ipynb) for details.
-
 
 References
 ----------
