@@ -3,7 +3,7 @@ Size-harmonized atmospheric microplastics
 
 This directory contains the size-harmonized observations and constrained simulation outputs described in "Reduced global atmospheric microplastic emissions from size-harmonized observations" (Hough et al., 2026).
 
-The data are archived at DOI:[10.5281/zenodo.22865719](https://doi.org/10.5281/zenodo.22865719)
+The data are archived at DOI:[10.5281/zenodo.22946011](https://doi.org/10.5281/zenodo.22946011)
 
 
 Contents
@@ -13,7 +13,7 @@ Contents
 
 `obs_fu2023-revised.csv`: observational dataset of Fu et al. (2023), revised to ensure lat/lon and microplastic particle counts (`particle/m3` or `particle/m2/d`) correspond to the study-reported values. Microplastic mass (`ug/m3` or `t/km2/yr`) was recomputed from the updated particle counts assuming a fixed microplastic particle mass of 57 ng/particle over land and 100 ng/particle over oceans. See [prep-obs-fu2023.ipynb](/notebooks/prep-obs-fu2023.ipynb) for details.
 
-`obs_fu2023-size-harmonzied.csv`: observational dataset of Fu et al. (2023) size-harmonized to the 0.1-100 µm particle size range. All observations were assumed to have a power law particle number size distribution with $\alpha$ = -2.7 (i.e. the log-log slope of the particle number size distribution is -2.7). Mass was computed assuming ellipsoidal particles with length = size, width = 0.68 length, height = 0.4 width, and density 1 g/cm3. See [size-harmonize-obs.ipynb](/notebooks/size-harmonize-obs.ipynb) for details.
+`obs_fu2023-size-harmonzied.csv`: revised observational dataset of Fu et al. (2023) size-harmonized to the 0.1-100 µm particle size range. All observations were assumed to have a power law particle number size distribution with $\alpha$ = -2.7 (i.e. the log-log slope of the particle number size distribution is -2.7). Mass was computed assuming ellipsoidal particles with length = size, width = 0.68 length, height = 0.4 width, and density 1 g/cm3. See [size-harmonize-obs.ipynb](/notebooks/size-harmonize-obs.ipynb) for details.
 
 `scales_{main|alt}.nc`: optimized scaling factors that adjust the postprocessed raw outputs of the *main* and *alternate* simulations to match observations. The *main* simulation is constrained by size-harmonized observations while the *alternate* simulation is constrained by unharmonized observations. See [constrain-simulations.ipynb](/notebooks/constrain-simulations.ipynb) for details.
 

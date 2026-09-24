@@ -11,7 +11,7 @@
     {
       "name": "Angot, Hélène",
       "orcid": "0000-0003-4673-8249",
-      "affiliation": "CNRS",
+      "affiliation": "Centre National de la Recherche Scientifique",
       "type": "Supervisor"
     },
     {
@@ -26,22 +26,28 @@
       "type": "Supervisor"
     }
   ],
+  "title": "Code for \"Reduced global atmospheric microplastic emissions from size-harmonized observations\" (Hough et al., 2026)",
   "related_identifiers": [
+    {
+      "identifier": "https://doi/org/10.5281/zenodo.22924039",
+      "relation": "isPartOf",
+      "resource_type": "publication"
+    },
     {
       "identifier": "https://github.com/GEOS-Chem-IGE/hough2026_atmo-plast-emis_harmonize/tree/v1.0.1",
       "relation": "isDerivedFrom",
       "resource_type": "software"
     },
     {
-      "identifier": "https://doi.org/10.5281/zenodo.22865719",
-      "relation": "isSourceOf",
-      "resource_type": "dataset"
-    },
-    {
-      "identifier": "https://doi.org/10.5281/zenodo.20847720",
+      "identifier": "https://doi.org/10.5281/zenodo.22925451",
       "relation": "requires",
       "resource_type": "dataset"
     },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.22946011",
+      "relation": "isSourceOf",
+      "resource_type": "dataset"
+    }
   ],
   "subjects": [
     {
