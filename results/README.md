@@ -3,13 +3,18 @@ Size-harmonized atmospheric microplastics
 
 This directory contains the size-harmonized observations and constrained simulation outputs described in "Reduced global atmospheric microplastic emissions from size-harmonized observations" (Hough et al., 2026).
 
-The data are archived at DOI:[10.5281/zenodo.22946011](https://doi.org/10.5281/zenodo.22946011)
+The data are archived at https://doi.org/10.5281/zenodo.22946011
 
 
 Contents
 --------
 
 [sensitivity/](sensitivity/): artifacts of analyses evaluating how sensitive our results are to the slope of the atmospheric microplastic particle size distribution and to the observations used to constrain simulated emissions. See the "Sensitivity" sections of [size-harmonize-obs.ipynb](/notebooks/size-harmonize-obs.ipynb) and [constrain-simulations.ipynb](/notebooks/constrain-simulations.ipynb) for details.
+
+- `obs_evangelou2025-size-harmonized_obs-{10|20|50}-{200|500|1000}.csv`: revised observational dataset of Evangelou et al. (2026) size-harmonized assuming varying observed size ranges.
+- `obs_fu2023-size-harmonized_alpha{+|-}1sd.csv`: revised observational dataset of Fu et al. (2023) size harmonized using an alternate PSD slope (plus/minus one standard deviation).
+- `sim_evangelou2025-size-harmonized_obs-{10|20|50}-{200|500|1000}_constrained.nc`: outputs of the *main* simulation constrained by the Evangelou et al. (2026) observations (`obs_evangelou2025-size-harmonized_obs-{10|20|50}-{200|500|1000}.csv`)
+- `sim_alpha{+|-}1sd_constrained.nc`: outputs of the *main* simulation constrained by the alternate PSD slope observations (`obs_fu2023-size-harmonized_alpha{+|-}1sd.csv`)
 
 `obs_fu2023-revised.csv`: observational dataset of Fu et al. (2023), revised to ensure lat/lon and microplastic particle counts (`particle/m3` or `particle/m2/d`) correspond to the study-reported values. Microplastic mass (`ug/m3` or `t/km2/yr`) was recomputed from the updated particle counts assuming a fixed microplastic particle mass of 57 ng/particle over land and 100 ng/particle over oceans. See [prep-obs-fu2023.ipynb](/notebooks/prep-obs-fu2023.ipynb) for details.
 

@@ -11,11 +11,11 @@ Contents
 
 Original data files (before postprocessing).
 
-`evangelou2026.csv`: observations of atmospheric microplastic concentration and deposition collected from the literature by Evangelou et al. (2026). This file was downloaded from [doi:10.5281/zenodo.17660114](https://doi.org/10.5281/zenodo.17660114) (original filename: atmo_MP_dataset.csv).
+`evangelou2026.csv`: observations of atmospheric microplastic concentration and deposition collected from the literature by Evangelou et al. (2026). Downloaded from https://doi.org/10.5281/zenodo.17660114 (original filename: atmo_MP_dataset.csv).
 
 `fu2023_concentration.txt`, `fu2023_deposition.txt`: observations of atmospheric microplastic concentration and deposition collected from the literature by Fu et al. (2023). These files were provided by Yanxu Zhang. The `number` column contains the number concentration reported by the study. The `mass` contains the corresponding mass; Fu et al. (2023) computed this from the number concentration assuming a fixed microplastic particle mass of 57 ng/particle over land and 100 ng/particle over oceans.
 
-`MPsizeBase v19-5-2026.xlsx`: MPsizeBase v5, a database of environmental microplastic particle size distributions and the corresponding power law parameters (Sonke et al., 2025). Downloaded from [doi:10.5281/zenodo.20832480](https://doi.org/10.5281/zenodo.20832480).
+`MPsizeBase v19-5-2026.xlsx`: MPsizeBase v5, a database of environmental microplastic particle size distributions and the corresponding power law parameters (Sonke et al., 2025). Downloaded from https://doi.org/10.5281/zenodo.20832480.
 
 ### [processed](processed/)
 
