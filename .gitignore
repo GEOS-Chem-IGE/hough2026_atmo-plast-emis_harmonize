@@ -5,3 +5,4 @@ simulations/*
 # Postprocessed simulation outputs and scaling factors
 *.nc
 *.pkl
+*.zip
