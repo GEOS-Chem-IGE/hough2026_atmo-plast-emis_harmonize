@@ -34,6 +34,8 @@ Contents
 References
 ----------
 
+Evangelou, I., Bucci, S., & Stohl, A. (2026). Atmospheric microplastic emissions from land and ocean. *Nature*, *649*(8099), 1186–1189. https://doi.org/10.1038/s41586-025-09998-6
+
 Fu, Y., Pang, Q., Ga, S. L. Z., Wu, P., Wang, Y., Mao, M., Yuan, Z., Xu, X., Liu, K., Wang, X., Li, D., & Zhang, Y. (2023). Modeling atmospheric microplastic cycle by GEOS-Chem: An optimized estimation by a global dataset suggests likely 50 times lower ocean emissions. *One Earth*, *6*(6), 705–714. https://doi.org/10.1016/j.oneear.2023.05.012
 
 Hough, I., Angot, H., Price, R., Dobiasova, N., Segur, T., Jahangir, E., Zhang, Y., Voisin, D., Sonke, J.E., & Thomas, J.L. (2026) Reduced global atmospheric microplastic emissions from size-harmonized observations.
